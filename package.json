@@ -1,7 +1,7 @@
 {
   "name": "@flun/passport-desktop-win32-ia32-msvc",
   "description": "passport-desktop 的 Windows 32 位平台二进制包(win32-ia32-msvc);",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "os": [
     "win32"
   ],
